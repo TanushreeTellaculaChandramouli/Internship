@@ -1,0 +1,11 @@
+transaction_id,amount,transaction_type,is_foreign,is_high_risk_country,customer_age,time_of_day,num_prev_transactions,account_balance,is_fraud
+1001,245.5,online,Yes,No,34,evening,12,5400.75,0
+1002,9850.0,wire,Yes,Yes,45,night,3,1500.5,1
+1003,55.2,card_swipe,No,No,29,afternoon,40,850.0,0
+1004,5000.0,wire,Yes,Yes,60,morning,2,200.0,1
+1005,10.0,atm,No,No,22,evening,20,320.0,0
+1006,302.15,online,Yes,No,38,night,10,2500.0,0
+1007,7550.0,wire,Yes,Yes,41,night,1,600.0,1
+1008,95.0,card_swipe,No,No,30,afternoon,50,4500.0,0
+1009,740.5,online,No,No,27,evening,15,1200.0,0
+1010,13000.0,wire,Yes,Yes,50,night,0,300.0,1
